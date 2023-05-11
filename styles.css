@@ -1,0 +1,25 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #9ccc95;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+.results{
+    display: none;
+}
+.kangaroo{
+    display: none;
+}
+.roofRat{
+    display: none;
+}
+.woodrat{
+    display: none;
+}
+.remi{
+    display: none;
+}
